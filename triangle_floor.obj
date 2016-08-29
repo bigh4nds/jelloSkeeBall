@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 26.09.2009 13:51:14
+
+#
+# object triangle_floor
+#
+
+v  -20.0000 -10.000 -20.0000
+v  20.0000 -10.0000 -20.0000
+v  0.0000 -10.0000 400.0000
+# v  -30.0000 400.0000  -5.0000
+# v 30.0000 400.0000 -5.0000
+# 3 vertices
+
+g floor01
+f 3 2 1
+# f 4 2 3
+# f 5 3 1
+# 1 faces
+

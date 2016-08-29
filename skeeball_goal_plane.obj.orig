@@ -1,0 +1,12 @@
+# Blender v2.60 (sub 0) OBJ File: 'SkeeBall_CollisionPlane.blend'
+# www.blender.org
+mtllib SkeeBall_CollisionPlane.mtl
+o Plane.001_Plane.010
+v 1.000000 0.054187 -0.814430
+v 1.000000 1.519813 0.546430
+v -1.000000 1.519813 0.546430
+v -1.000000 0.054187 -0.814431
+usemtl 
+s off
+f 1 4 3
+f 1 3 2
